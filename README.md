@@ -20,6 +20,14 @@
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmnx&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p>
@@ -37,33 +45,29 @@
 
 ---
 
-## 📊 Developer Insights 
+## 📊 Developer Dashboard 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/59c3336b-c995-4d73-b615-df5f52e84d50" width="850"/>
+  <a href="https://commitpulse.vercel.app/itsmnx">
+    <img src="https://github.com/user-attachments/assets/59c3336b-c995-4d73-b615-df5f52e84d50" width="850" alt="CommitPulse Dashboard"/>
+  </a>
 </p>
 
 <p align="center">
-  🚀 <a href="https://commitpulse.vercel.app/itsmnx">View Live CommitPulse Dashboard</a>
+  <a href="https://www.thegitcity.com/dev/itsmnx">
+    <img src="https://github.com/user-attachments/assets/55f03a19-7f70-445c-942c-e9879c9af1e5" width="850" alt="GitHub City"/>
+  </a>
 </p>
 
-💡 *Analyzes my GitHub activity to highlight consistency, productivity trends, and real development habits beyond contribution graphs.*
+<p align="center">
+  💡 <i>Interactive visualizations of my GitHub activity — from analytics dashboards to creative 3D representations.</i>
+</p>
 
 ---
-
-
 ## 🌱 Currently Improving
 - Data Structures & Algorithms  
-- Backend Development (Node.js / APIs)  
+- Backend Development (Node.js / APIs /Django)
 - System Design Basics  
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsmnx&theme=tokyonight&row=1&column=6"/>
-</p>
 
 ---
 
