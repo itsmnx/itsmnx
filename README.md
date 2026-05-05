@@ -2,26 +2,24 @@
 
 <p align="center">
   💻 Aspiring Software Developer | 🌐 Web Developer <br/>
-  🚀 Building scalable projects & improving consistency every day
+  🚀 Building scalable systems & contributing to open-source projects
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Open+Source+Enthusiast;DSA+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Open+Source+Enthusiast;DSA+Learner;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 3rd Year B.Tech Student  
-- 🔭 Working on **Full Stack Web Applications**  
-- 🌱 Currently learning **Django for backend development**, along with **Advanced React & System Design**  
-- 💡 Interested in **Scalable Systems & Open Source**  
-
+- 🔭 Building **Full Stack Web Applications**  
+- 🌱 Learning **Django, Advanced React & System Design**  
+- 💡 Interested in **Scalable Systems, Open Source & Clean UI/UX**  
 
 ---
 
 ## 🏆 GitHub Achievements
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=itsmnx&theme=tokyonight&row=1&column=6"/>
 </p>
@@ -29,19 +27,16 @@
 ---
 
 ## 🛠️ Tech Stack
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,c,js,python,react,html,css,mongodb,git,github,aws" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itsmnx&theme=tokyonight" height="160"/>
 </p>
-
 
 ---
 
@@ -60,22 +55,56 @@
 </p>
 
 <p align="center">
-  💡 <i>Interactive visualizations of my GitHub activity — from analytics dashboards to creative 3D representations.</i>
+  💡 <i>Interactive visualizations of my GitHub activity — combining analytics and creative representations beyond traditional contribution graphs.</i>
 </p>
 
 ---
+
+## 🧠 LeetCode Activity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Profiles-2-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Problem%20Solving-green?style=for-the-badge"/>
+</p>
+
+
+<p align="center"><b>⭐ Primary Profile</b></p>
+
+<p align="center">
+  <a href="https://leetcode.com/MANAS_JOSHI/">
+    <img src="https://leetcard.jacoblin.cool/MANAS_JOSHI?theme=dark&font=baloo&ext=heatmap" height="230"/>
+  </a>
+</p>
+
+<p align="center"><b>⚡ Secondary Profile</b></p>
+
+<p align="center">
+  <a href="https://leetcode.com/Manas-Joshi_275/">
+    <img src="https://leetcard.jacoblin.cool/Manas-Joshi_275?theme=dark&font=baloo&ext=heatmap" height="230"/>
+  </a>
+</p>
+
+<p align="center">
+  💡 <i>Maintaining multiple profiles for consistent practice, contests, and strengthening problem-solving skills.</i>
+</p>
+
+
 ## 🌱 Currently Improving
-- Data Structures & Algorithms  
-- Backend Development (Node.js / APIs /Django)
-- System Design Basics  
+- 🧠 Data Structures & Algorithms  
+- ⚙️ Backend Development (Node.js / APIs / Django)  
+- 🏗️ System Design Basics  
 
 ---
 
 ## 🤝 Connect With Me
-
 <p align="center">
-  <a href="www.linkedin.com/in/manas-joshi275mike"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:jmanas275@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/manas-joshi275mike">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:jmanas275@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
