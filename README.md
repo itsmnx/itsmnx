@@ -60,35 +60,6 @@
 
 ---
 
-## 🧠 LeetCode Activity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/Profiles-2-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Problem%20Solving-green?style=for-the-badge"/>
-</p>
-
-
-<p align="center"><b>⭐ Primary Profile</b></p>
-
-<p align="center">
-  <a href="https://leetcode.com/MANAS_JOSHI/">
-    <img src="https://leetcard.jacoblin.cool/MANAS_JOSHI?theme=dark&font=baloo&ext=heatmap" height="230"/>
-  </a>
-</p>
-
-<p align="center"><b>⚡ Secondary Profile</b></p>
-
-<p align="center">
-  <a href="https://leetcode.com/Manas-Joshi_275/">
-    <img src="https://leetcard.jacoblin.cool/Manas-Joshi_275?theme=dark&font=baloo&ext=heatmap" height="230"/>
-  </a>
-</p>
-
-<p align="center">
-  💡 <i>Maintaining multiple profiles for consistent practice, contests, and strengthening problem-solving skills.</i>
-</p>
-
 
 
 ## 🌱 Currently Improving
